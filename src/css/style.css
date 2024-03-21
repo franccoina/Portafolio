@@ -1,0 +1,63 @@
+.sec-nav{
+    display:flex ; justify-content: center
+}
+
+.sec-nav-opciones{
+    display:flex; justify-content:space-between
+}
+
+.sec-nav-lista{
+    display: flex; text-indent: 20px; list-style-type: none;
+}
+
+.anchor-nav-lista{
+    text-decoration: none; color:rgb(85, 85, 85)
+}
+
+.sec-main-1{
+    display:flex ; justify-content:space-between; width: 100%; background-color: rgb(207, 207, 207)
+}
+
+.sec-main-1-article{
+    width: 50%
+}
+
+.sec-main-1-title{
+    font-size: 5vw; color: rgb(75, 75, 75)
+}
+
+.sec-main-1-subtitle{
+    font-size: 2vw; color: rgb(124, 124, 124)
+}
+
+.sec-main-1-imagen{
+    display:flex ; justify-content:flex-end; width: 50%
+}
+
+.sec-main-2{
+    color: rgb(204, 204, 204);color: rgb(75, 75, 75)
+}
+
+span{
+    font-size: 1.5rem
+}
+
+.sec-main-3{
+    width: 100%; display: block ;justify-content:center;
+}
+
+.sec-main-3-article1{
+    width: 100%; display: flex; justify-content:flex-start;font-size: 1vw;
+}
+
+.sec-main-3-article1-text{
+    width: 10%; background-color: rgb(215, 0, 0);color: rgb(215, 0, 0); margin-bottom: 0px; 
+}
+
+.sec-main-3-article2{
+    width: 100%; display: flex; justify-content: flex-end;
+}
+
+.sec-main-3-article2-text{
+    width: 90%; background-color: rgb(255, 235, 235); color:rgb(160, 40, 40); margin-top: 0px;
+}
