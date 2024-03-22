@@ -19,36 +19,6 @@
 }
 
 .sec-main-1{
-    display:flex ; 
-    justify-content:space-between; 
-    width: 100%; 
-    background-color: rgb(220, 205, 170);
-    border: solid black 1px;
-}
-
-.sec-main-1-article{
-    width: 50%;
-    padding: 8px;
-}
-
-.sec-main-1-title{
-    font-size: 5vw; 
-    color: rgb(100, 70, 30);
-    margin-left: 0px;
-}
-
-.sec-main-1-subtitle{
-    font-size: 2vw; 
-    color: rgb(175, 125, 35);
-}
-
-.sec-main-1-figure{
-    display:flex ; 
-    justify-content:flex-end; 
-    width: 50%;
-}
-
-.sec-main-2{
     color: rgb(204, 204, 204);color: rgb(75, 75, 75)
 }
 
@@ -56,18 +26,18 @@ span{
     font-size: 1.5rem
 }
 
-.sec-main-3{
+.sec-main-2{
     width: 100%; display: block ;justify-content:center;
 }
 
-.sec-main-3-article1{
+.sec-main-2-article1{
     width: 100%; 
     display: flex; 
     justify-content:flex-start;
     font-size: 1vw;
 }
 
-.sec-main-3-article1-text{
+.sec-main-2-article1-text{
     width: 10%; 
     background-color: rgb(175, 125, 35);
     color: rgb(175, 125, 35);
@@ -75,14 +45,14 @@ span{
     border: solid black 1px;
 }
 
-.sec-main-3-article2{
+.sec-main-2-article2{
     width: 100%; 
     display: flex; 
     justify-content: flex-end; padding: 23px
     
 }
 
-.sec-main-3-article2-text{
+.sec-main-2-article2-text{
     width: 90%; 
     background-color: rgb(255, 250, 244); 
     color:rgb(175, 125, 35); 
