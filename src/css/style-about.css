@@ -15,7 +15,9 @@
 }
 
 .anchor-nav-lista{
-    text-decoration: none; color:rgb(85, 85, 85)
+    text-decoration: none; 
+    color:rgb(85, 85, 85);
+    font-family: "Train One", system-ui;
 }
 
 .sec-main-1{
